@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+yt-dlp
+redis>=4.3.0
+pydantic-settings
+celery[redis]
+fastapi-utils
+typing-inspect
+requests
